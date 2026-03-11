@@ -1,0 +1,10 @@
+---
+title: "Prueba de PDF"
+author: "Tu Nombre"
+format: pdf
+---
+
+## Hola LaTeX
+Este es un documento renderizado desde **Quarto** usando el motor de **MiKTeX**.
+
+$$E = mc^2$$

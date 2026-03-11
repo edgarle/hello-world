@@ -1,0 +1,17 @@
+# Quarto y R
+.quarto/
+*_cache/
+*_files/
+
+# Archivos temporales de LaTeX
+*.log
+*.aux
+*.out
+*.toc
+*.pdf
+*.tex
+
+# Archivos de usuario de R
+.Rhistory
+.RData
+.Rproj.user
